@@ -1,0 +1,25 @@
+number;category_search;category_exact;subject;description01;description02;description03;location_search;requester;request_date
+1;vírusvédelem;Informatikai vírusvédelem monitorozása;Symantec Vírusvédelem ellenõrzése;Symantec Vírusvédelem ellenõrzése a(z) V. Kerületi Népegészségügyi gépeken  ;;;kossuth;Serbán Zsolt;2021.10.20
+2;vírusvédelem;Informatikai vírusvédelem monitorozása;Symantec Vírusvédelem ellenõrzése;Symantec Vírusvédelem ellenõrzése a(z) XIV. Kerületi Népegészségügyi gépeken  ;;;bánki;Serbán Zsolt;2021.10.20
+3;vírusvédelem;Informatikai vírusvédelem monitorozása;Symantec Vírusvédelem ellenõrzése  ;Symantec Vírusvédelem ellenõrzése a(z) XI. Kerületi Népegészségügyi gépeken  ;;;budafoki;Serbán Zsolt;2021.10.20
+4;vírusvédelem;Informatikai vírusvédelem monitorozása;Symantec Vírusvédelem ellenõrzése  ;Symantec Vírusvédelem ellenõrzése a Népegészségügyi Fõosztály gépein  ;;;váci út 172;Serbán Zsolt;2021.10.20
+5;vírusvédelem;Informatikai vírusvédelem monitorozása;Symantec Vírusvédelem ellenõrzése  ;Symantec Vírusvédelem ellenõrzése a(z) II. Kerületi Népegészségügyi gépeken  ;;;váradi;Serbán Zsolt;2021.10.20
+6;vírusvédelem;Informatikai vírusvédelem monitorozása;Symantec Vírusvédelem ellenõrzése  ;Symantec Vírusvédelem ellenõrzése a(z) VI. Kerületi Népegészségügyi gépeken  ;;;podmani;Serbán Zsolt;2021.10.20
+7;vírusvédelem;Informatikai vírusvédelem monitorozása;Symantec Vírusvédelem ellenõrzése  ;Symantec Vírusvédelem ellenõrzése a(z) X. Kerületi Népegészségügyi gépeken  ;;;fokos;Serbán Zsolt;2021.10.20
+8;vírusvédelem;Informatikai vírusvédelem monitorozása;Symantec Vírusvédelem ellenõrzése  ;Symantec Vírusvédelem ellenõrzése a(z) XX. Kerületi Népegészségügyi gépeken  ;;;szent imre;Serbán Zsolt;2021.10.20
+9;hálózat;Informatikai hálózat monitorozása;A V. Kerületi Népegészségügy hálózati ellenõrzése  :;A V. Kerületi Népegészségügy hálózati ellenõrzése  :;1. Internet elérése a munkaállomásokon;2. Mappelt hálózati meghajtók elérése a munkaállomásokon;kossuth;Serbán Zsolt;2021.10.20
+10;hálózat;Informatikai hálózat monitorozása;A XIV. Kerületi Népegészségügy hálózati ellenõrzése :;A XIV. Kerületi Népegészségügy hálózati ellenõrzése :;1. Internet elérése a munkaállomásokon;2. Mappelt hálózati meghajtók elérése a munkaállomásokon;bánki;Serbán Zsolt;2021.10.20
+11;hálózat;Informatikai hálózat monitorozása;A XI. Kerületi Népegészségügy hálózati ellenõrzése :;A XI. Kerületi Népegészségügy hálózati ellenõrzése :;1. Internet elérése a munkaállomásokon;2. Mappelt hálózati meghajtók elérése a munkaállomásokon;budafoki;Serbán Zsolt;2021.10.20
+12;hálózat;Informatikai hálózat monitorozása;A Népegészségügyi Fõosztály hálózati ellenõrzése :;A Népegészségügyi Fõosztály hálózati ellenõrzése :;1. Internet elérése a munkaállomásokon;2. Mappelt hálózati meghajtók elérése a munkaállomásokon;váci út 172;Serbán Zsolt;2021.10.20
+13;hálózat;Informatikai hálózat monitorozása;A II. Kerületi Népegészségügy hálózati ellenõrzése :;A II. Kerületi Népegészségügy hálózati ellenõrzése :;1. Internet elérése a munkaállomásokon;2. Mappelt hálózati meghajtók elérése a munkaállomásokon;váradi;Serbán Zsolt;2021.10.20
+14;hálózat;Informatikai hálózat monitorozása;A VI. Kerületi Népegészségügy hálózati ellenõrzése :;A VI. Kerületi Népegészségügy hálózati ellenõrzése :;1. Internet elérése a munkaállomásokon;2. Mappelt hálózati meghajtók elérése a munkaállomásokon;podmani;Serbán Zsolt;2021.10.20
+15;hálózat;Informatikai hálózat monitorozása;A X. Kerületi Népegészségügy hálózati ellenõrzése :;A X. Kerületi Népegészségügy hálózati ellenõrzése :;1. Internet elérése a munkaállomásokon;2. Mappelt hálózati meghajtók elérése a munkaállomásokon;fokos;Serbán Zsolt;2021.10.20
+16;hálózat;Informatikai hálózat monitorozása;A XX. Kerületi Népegészségügy hálózati ellenõrzése :;A XX. Kerületi Népegészségügy hálózati ellenõrzése :;1. Internet elérése a munkaállomásokon;2. Mappelt hálózati meghajtók elérése a munkaállomásokon;szent imre;Serbán Zsolt;2021.10.20
+;;;Napi diszpécseri feladatok ellátása Népegészségügyi területen:;Mozgatási bizonylatok kiállítása;Ki - és - belépõ dolgozók ügyintézése;;;;
+;;;Napi diszpécseri feladatok ellátása Népegészségügyi területen:;MMR jegyek felvétele és kiosztása;;;;;
+;;;NFO Intranet karbantartása, szerkesztése:;Módosítások, hírek új bejegyzések kihelyezése NFO Intranetre;;;;;
+;;;SEP manager ellenõrzése:;A SEPM állapotának ellenõrzése;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
